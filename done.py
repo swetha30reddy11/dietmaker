@@ -276,3 +276,4 @@ class DietMateApp(tk.Tk):
 if __name__=="__main__":
     auth = AuthWindow()
     auth.mainloop()
+
